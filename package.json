@@ -1,5 +1,5 @@
 {
-  "name": "tailadmin-react-free",
+  "name": "magicsubsribe",
   "private": true,
   "version": "1.0.5",
   "type": "module",
@@ -9,9 +9,9 @@
     "preview": "vite preview"
   },
   "author": {
-    "name": "TailAdmin",
-    "email": "hello@tailadmin.com",
-    "url": "https://tailadmin.com"
+    "name": "Magician",
+    "email": "ndrohith09@gmail.com",
+    "url": "https://magicsubscribe.netlify.app/"
   },
   "dependencies": {
     "@chakra-ui/react": "^2.6.1",
