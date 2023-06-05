@@ -1,7 +1,7 @@
-## Zero Subscribe 
+## Magic Subscribe 
 ![img](https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/magic%20subscribe.jpg?alt=media&token=ac84e2a2-c650-4e46-bef5-bda2ef3c78ac)
 
-### Zero Subscribe Server 
+### Magic Subscribe Server 
 
 Clone this [server repo](https://github.com/Revanth2002/Square-Server) and run the following commands 
 ````bash
@@ -27,7 +27,7 @@ python3 manage.py runserver 0.0.0.0:8000
 <hr />
 <br />
 
-### Zero Subscribe Client
+### Magic Subscribe Client
 
 Clone this [client repo](https://github.com/ndrohith09/MagicSubscribe-Client) and run the following commands 
 
