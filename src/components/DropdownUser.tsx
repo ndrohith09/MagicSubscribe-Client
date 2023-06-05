@@ -53,7 +53,8 @@ const DropdownUser = () => {
       >
         <span className="hidden text-right lg:block">
           <span className="block text-sm font-medium text-black dark:text-white">
-            {localStorage.getItem('square_company_name')}
+            {/* {localStorage.getItem('square_company_name')} */}
+            InsightCRM
           </span> 
         </span>
 

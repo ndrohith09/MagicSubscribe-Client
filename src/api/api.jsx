@@ -15,7 +15,7 @@ else {
 } 
 
 const instance = axios.create({
-  baseURL : 'http://0.0.0.0:8000/api/v1/',
+  baseURL : 'https://web-magicsubscribe.bunnyenv.com/api/v1/',
   // baseURL: `${process.env.REACT_APP_API_URL}`,
   headers: {
     Authorization: `Bearer ${encryptText}`,
