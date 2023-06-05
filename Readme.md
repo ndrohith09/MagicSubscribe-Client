@@ -1,3 +1,6 @@
+## Zero Subscribe 
+![img](https://firebasestorage.googleapis.com/v0/b/react-firechat-ae4bf.appspot.com/o/magic%20subscribe.jpg?alt=media&token=ac84e2a2-c650-4e46-bef5-bda2ef3c78ac)
+
 ### Zero Subscribe Server 
 
 Clone this [server repo](https://github.com/Revanth2002/Square-Server) and run the following commands 
